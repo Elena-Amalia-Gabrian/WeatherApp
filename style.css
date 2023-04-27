@@ -11,7 +11,7 @@ body {
 }
 
 .base-background {
-  background-image: url("/cssphotos/base-photo.jpg");
+  background-image: url("cssphotos/base-photo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
